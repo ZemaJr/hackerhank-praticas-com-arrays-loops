@@ -18,3 +18,5 @@ function solucao(stringCorrompida) {
   }
   console.log(dadoPurificado);
 }
+
+solucao("*Canis %lupus )familiaris");
